@@ -18,7 +18,7 @@ public class Stocks {
     }
 
     public int getNumberOfShare() {
-        return numberOfShare;
+        return numberOfShare ;
     }
 
 }
