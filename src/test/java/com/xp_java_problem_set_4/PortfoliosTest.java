@@ -8,7 +8,8 @@ import static org.junit.Assert.*;
  * Created by localadmin on 02/01/17.
  */
 public class PortfoliosTest {
-   // @Test
-
-
+    @Test
+    public void createAndInitializeProtfolios() {
+        Portfolios portfolios = new Portfolios("Technology");
+    }
 }
